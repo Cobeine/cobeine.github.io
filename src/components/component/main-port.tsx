@@ -163,9 +163,9 @@ export function MainPort() {
                 <div className="space-y-2">
                   <h3 className="text-lg font-semibold pt-6">Bachelor&apos;s degree</h3>
                   <p className="text-muted-foreground">
-                    Computer/Information Technology, Administration and Management
+                  High-Institute of Advanced Administration and Computers in Beheira
                   </p>
-                  <p className="text-muted-foreground">2023 - 2025</p>
+                  <p className="text-muted-foreground">2023 - ongoing 2025</p>
                 </div>
               </CardContent>
             </Card>
