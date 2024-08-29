@@ -117,9 +117,9 @@ export function MainPort() {
             <Card>
               <CardContent>
                 <div className="space-y-2">
-                  <h3 className="text-lg font-semibold pt-6">Lotus Menus</h3>
+                  <h3 className="text-lg font-semibold pt-6">mBoard</h3>
                   <p className="text-muted-foreground">
-                    A Fully configurable implementation of Lotus API for Menus based on Spigot
+                    An animated NMS Scoreboard Library based on FastBoard
                   </p>
                 </div>
               </CardContent>
