@@ -119,7 +119,7 @@ export function MainPort() {
                 <div className="space-y-2">
                   <h3 className="text-lg font-semibold pt-6">mBoard</h3>
                   <p className="text-muted-foreground">
-                    An animated NMS Scoreboard Library based on FastBoard
+                    Developed and Maintained a NMS Scoreboard Library based on FastBoard
                   </p>
                 </div>
               </CardContent>
@@ -143,6 +143,18 @@ export function MainPort() {
                   <p className="text-muted-foreground">2022 - Present</p>
                   <p className="text-muted-foreground">
                     Developed and maintained several Java-based software, Including a sales & purchasing analyzer
+                  </p>
+                </div>
+              </CardContent>
+            </Card>
+            <Card>
+              <CardContent>
+                <div className="space-y-2">
+                  <h3 className="text-lg font-semibold pt-6">Java Freelancer</h3>
+                  <p className="text-muted-foreground">Fiverr (Fiverr.com)</p>
+                  <p className="text-muted-foreground">2021 - Present</p>
+                  <p className="text-muted-foreground">
+                    Completed well over 80 orders and achieved level 2 Seller.
                   </p>
                 </div>
               </CardContent>
