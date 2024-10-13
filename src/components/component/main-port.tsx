@@ -142,7 +142,7 @@ export function MainPort() {
                   <p className="text-muted-foreground">Makera (Makera.gg)</p>
                   <p className="text-muted-foreground">2022 - Present</p>
                   <p className="text-muted-foreground">
-                    Developed and maintained several Java-based software, Including a sales & purchasing analyzer
+                    Developed and maintained several Java-based software, Including a sales & purchasing analyzer, some backend plugins & gamemodes.
                   </p>
                 </div>
               </CardContent>
@@ -188,7 +188,7 @@ export function MainPort() {
                   <p className="text-muted-foreground">
                     Java 21, 17, 11, 8 & Spring boot Advanced prep for Oracle Certified Professional (OCP)
                   </p>
-                  <p className="text-muted-foreground">2024 - ongoing</p>
+                  <p className="text-muted-foreground">2024</p>
                 </div>
               </CardContent>
             </Card>
