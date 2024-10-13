@@ -135,11 +135,23 @@ export function MainPort() {
             <p className="text-muted-foreground">My professional experience:</p>
           </div>
           <div className="space-y-4">
+          <Card>
+              <CardContent>
+                <div className="space-y-2">
+                  <h3 className="text-lg font-semibold pt-6">Lead Software Developer</h3>
+                  <p className="text-muted-foreground">CosmoByte (<a href="https://www.CosmoByte.org">CosmoByte.org</a>)</p>
+                  <p className="text-muted-foreground">Mar 2024 - Present</p>
+                  <p className="text-muted-foreground">
+                    Overseeing and guiding a team of developers in my role as Lead Developer. Focusing on creating backend applications & webapps built in Java.
+                  </p>
+                </div>
+              </CardContent>
+            </Card>
             <Card>
               <CardContent>
                 <div className="space-y-2">
                   <h3 className="text-lg font-semibold pt-6">Java Software Developer</h3>
-                  <p className="text-muted-foreground">Makera (Makera.gg)</p>
+                  <p className="text-muted-foreground">Makera (<a href="https://makera.gg">Makera.gg</a>)</p>
                   <p className="text-muted-foreground">2022 - Present</p>
                   <p className="text-muted-foreground">
                     Developed and maintained several Java-based software, Including a sales & purchasing analyzer, some backend plugins & gamemodes.
@@ -151,7 +163,7 @@ export function MainPort() {
               <CardContent>
                 <div className="space-y-2">
                   <h3 className="text-lg font-semibold pt-6">Java Freelancer</h3>
-                  <p className="text-muted-foreground">Fiverr (Fiverr.com)</p>
+                  <p className="text-muted-foreground">Fiverr (<a href="https://www.fiverr.com/qnl1ne">Fiverr.com</a>)</p>
                   <p className="text-muted-foreground">2021 - Present</p>
                   <p className="text-muted-foreground">
                     Completed well over 80 orders and achieved level 2 Seller.
