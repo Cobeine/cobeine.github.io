@@ -196,7 +196,7 @@ export function MainPort() {
             <Card>
               <CardContent>
                 <div className="space-y-2">
-                  <h3 className="text-lg font-semibold pt-6">Udemy Certification</h3>
+                  <h3 className="text-lg font-semibold pt-6">Udemy Certification (<a href="https://www.udemy.com/certificate/UC-e8bcb28c-405e-4125-9a3e-5b1c2a924def/">Link to certificate</a>)</h3>
                   <p className="text-muted-foreground">
                     Java 21, 17, 11, 8 & Spring boot Advanced prep for Oracle Certified Professional (OCP)
                   </p>
